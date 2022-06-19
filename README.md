@@ -2,7 +2,7 @@
 
 A machine learning based approach to predict movie preferences with a optimised model.
 
-###Steps:
+### Steps:
 
 * Read the dataset
 * Pre-processing and label encoding
